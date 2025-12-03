@@ -1,3 +1,4 @@
-aiogram==3.3.0
-Pillow==11.0.0
-aiohttp==3.9.5
+aiogram
+Pillow
+python-dotenv
+requests
